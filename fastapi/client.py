@@ -1,5 +1,5 @@
+# script to test running the server locally
 import requests
-from my_types import TodoBase
 import json
 
 todo = {'id':None,'title':"Wake up", 'desc':"Get out of bed!"}
